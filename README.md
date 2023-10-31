@@ -32,7 +32,27 @@
 > 위의 링크 클릭 시 해당 리포지토리 상세 내용을 보실 수 있습니다.
 - 어도비 소프트웨어 내에서 현재 프로젝트 서비스를 사용할 수 있습니다.
 
-## 3. 프로젝트 기술 스택
+## 3. 프로젝트 이미지
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/cc9830a1-4c6b-4cd4-9851-98f390f1dd04">
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/359aa84b-34ac-41ce-9998-2e804f48de71">
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/6fc6100b-41d8-4a93-b9c7-add60cd89afb">
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/7716a76d-88db-4948-bd61-23097cbcd389">
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/689b611a-f0da-4bb7-bd6e-6f9dca6acc65">
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/7a76f8db-3bf4-4bc8-9eeb-b57de372038e">
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/700522e1-75e3-462d-82af-194132917257">
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/c73f2b11-15ab-42ed-9f85-9bd1920ddd61">
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/5071668a-e414-48d7-9da0-c5d27be91017">
+<img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/a2832cd4-b7f8-48bf-bbe7-dfdbf9951ea5">
+
+
+
+
+
+
+
+
+
+## 4. 프로젝트 기술 스택
 
 ### Application
 java, spring boot
@@ -43,5 +63,5 @@ Mysql(서비스 DB), redis(세션 관리)
 ### CI/CD
 GCP, docker, spring cloud(eureka, gateway)
 
-## 4. ERD
+## 5. ERD
 ![image](https://github.com/dogineer/mediabuddies-docs/assets/61046271/cfab9463-3e4e-49e5-a280-88b82af947c0)
