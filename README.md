@@ -6,7 +6,7 @@
 ## 2. 프로젝트 서비스
 ![image](https://github.com/dogineer/mediabuddies-docs/assets/61046271/d73436ba-72cf-4923-8ea4-4dcc628ee1a8)
 
-![image](https://github.com/dogineer/mediabuddies-docs/assets/61046271/57f5565d-c328-454e-b18a-a1c400dc3bb8)
+![image](https://github.com/dogineer/mediabuddies-docs/assets/61046271/02853c99-c198-408a-ac66-acf22350dcb3)
 
 
 ### **서비스 경험하기**
@@ -43,14 +43,6 @@
 <img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/c73f2b11-15ab-42ed-9f85-9bd1920ddd61">
 <img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/5071668a-e414-48d7-9da0-c5d27be91017">
 <img width="2168" alt="image" src="https://github.com/dogineer/mediabuddies-docs/assets/61046271/a2832cd4-b7f8-48bf-bbe7-dfdbf9951ea5">
-
-
-
-
-
-
-
-
 
 ## 4. 프로젝트 기술 스택
 
