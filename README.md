@@ -10,7 +10,7 @@
 
 
 ### **서비스 경험하기**
-- Media Buddies [방문하기](https://mediabuddies.kro.kr)
+- Media Buddies [방문하기](https://mediabuddies.kro.kr) | id: test, password: 1234
 - FTP 접속 ( ftp://guest@mediabuddies.kro.kr | 1234 )
 - 프리미어 프로 플러그인 [설치](https://github.com/dogineer/mediabuddies-adobe-panel)
 
